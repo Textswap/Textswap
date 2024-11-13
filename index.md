@@ -5,6 +5,7 @@
 * [Overview](#overview)
 * [Navbar](#navbar)
 * [Buying and Selling](#buying-and-selling)
+* [Team](#team)
 
 ## Overview
 
@@ -33,3 +34,7 @@ The tab set up to make listings would allow you to specify the subject, title, p
 ### Commenting on a listing
 
 The tab for sorting through listings would also be where you purchase the textbooks. You could filter the different listings by the specifications listed above such as condition, price, subject, and title. Then, via the ability to comment on posts you could contact the seller and attempt to make a deal with them. This would allow for haggling, or for getting more specific details from the owner of the textbook. Then, once something is settled you could work out the method of payment and how you would recieve the textbook.
+
+## Team
+
+Textswap is maintained by Ellie Ishii, Xingyao He, Dhaniel Bolosan, and Logan Teachout.
