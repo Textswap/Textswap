@@ -30,8 +30,10 @@ The other tabs would be for buying textbooks or selling textbooks. The selling t
 ## Buying and Selling
 
 <img src="Images/Explorepage.png">
+<br><br>
 
 <img src="Images/Productpage.png">
+<br><br>
 
 <img src="Images/Cartpage.png">
 
