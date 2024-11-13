@@ -1,5 +1,7 @@
 # Textswap
 
+<img src="Images/Homepage.png">
+
 ## Table of Contents
 
 * [Overview](#overview)
@@ -17,6 +19,8 @@ The navbar would be a header at the top that would contain the tabs for seeing o
 
 ### Sign in/Sign up
 
+<img src="Images/Profilepage.png">
+
 The sign in or sign up section would just be used to track users, and to ensure there aren't any issues you would have to sign up if you wanted to sell any textbooks on the site. 
 
 ### Tabs
@@ -25,9 +29,17 @@ The other tabs would be for buying textbooks or selling textbooks. The selling t
 
 ## Buying and Selling
 
+<img src="Images/Explorepage.png">
+
+<img src="Images/Productpage.png">
+
+<img src="Images/Cartpage.png">
+
 The whole goal of the site is to buy and sell used textbooks to help other students. To make it more streamlined we would have two different tabs. One for making a listing, and one for commenting on listings. This is because it could be hard to figure out how to work the system if we didn't dedicate a section to the making of listings.
 
 ### Making a listing
+
+<img src="Images/Listingpage.png">
 
 The tab set up to make listings would allow you to specify the subject, title, price, and any other options that might be important descriptors for a textbook, like the condition. Then, it would allow you to set a description where you would add any other notes. This would be things such as the price, or if you're looking for an exchange, or even details like notes scribbled in the margins of the textbook.
 
@@ -38,3 +50,5 @@ The tab for sorting through listings would also be where you purchase the textbo
 ## Team
 
 Textswap is maintained by Ellie Ishii, Xingyao He, Dhaniel Bolosan, and Logan Teachout.
+
+<img src="Images/Adminpage.png">
