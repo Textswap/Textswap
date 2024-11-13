@@ -1,0 +1,10 @@
+title: Textswap
+description: Buying and selling used textbooks
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/textswap/textswap
+gems:
+  - jekyll-mentions
