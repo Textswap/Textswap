@@ -1,6 +1,15 @@
+:root {
+  --nat-navbar-bg: #225f49;
+  --nat-navbar-bg-rgb: 34, 95, 73;
+  --nat-navbar-text-color: white;
+  --nat-navbar-highlight-text: #d7d7d7;
+}
+
 html,
 body {
-  --bs-light-rgb: 236, 236, 236;
+  --bs-dark: var(--nat-navbar-bg);
+  --bs-dark-rgb: var(--nat-navbar-bg-rgb);
+  color: var(--nat-navbar-text-color);
   box-sizing: border-box;
   height: 100%;
   padding: 0;
@@ -11,4 +20,25 @@ body {
   min-height: 100%;
   display: flex;
   flex-direction: column;
+}
+
+body .navbar {
+  --bs-navbar-active-color: var(--nat-navbar-highlight-text);
+  --bs-navbar-brand-color: var(--nat-navbar-text-color);
+  --bs-navbar-brand-hover-color: var(--nat-navbar-highlight-text);
+  --bs-navbar-color: var(--nat-navbar-text-color);
+  --bs-navbar-hover-color: var(--nat-navbar-highlight-text);
+}
+
+.bg-dark a.dorpdown-item {
+  color: var(--nat-navbar-bg);
+}
+
+.search-bar {
+  height: 30px;
+  border-radius: 50px;
+  font-size: 20px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
 }
