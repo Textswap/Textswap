@@ -8,6 +8,7 @@
 * [Navbar](#navbar)
 * [Buying and Selling](#buying-and-selling)
 * [Team](#team)
+* Milestone 1: https://github.com/orgs/Textswap/projects/3/views/1
 
 ## Overview
 
