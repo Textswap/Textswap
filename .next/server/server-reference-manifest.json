@@ -1,0 +1,56 @@
+{
+  "node": {
+    "377ccf6267ce0b9bb6358337258dcd67d607ec78": {
+      "workers": {
+        "app/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdhanielbolosan%2FDocuments%2FGitHub%2FTextswap%2Fsrc%2Flib%2FdbActions.ts%22%2C%5B%22deleteStuff%22%2C%22addStuff%22%2C%22createUser%22%2C%22changePassword%22%2C%22editStuff%22%5D%5D%5D&__client_imported__=true!",
+        "app/auth/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdhanielbolosan%2FDocuments%2FGitHub%2FTextswap%2Fsrc%2Flib%2FdbActions.ts%22%2C%5B%22deleteStuff%22%2C%22addStuff%22%2C%22createUser%22%2C%22changePassword%22%2C%22editStuff%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/add/page": "action-browser",
+        "app/auth/signup/page": "action-browser"
+      }
+    },
+    "6b40992e2f90725938dbb1a25458e1aebdc2ad8f": {
+      "workers": {
+        "app/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdhanielbolosan%2FDocuments%2FGitHub%2FTextswap%2Fsrc%2Flib%2FdbActions.ts%22%2C%5B%22deleteStuff%22%2C%22addStuff%22%2C%22createUser%22%2C%22changePassword%22%2C%22editStuff%22%5D%5D%5D&__client_imported__=true!",
+        "app/auth/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdhanielbolosan%2FDocuments%2FGitHub%2FTextswap%2Fsrc%2Flib%2FdbActions.ts%22%2C%5B%22deleteStuff%22%2C%22addStuff%22%2C%22createUser%22%2C%22changePassword%22%2C%22editStuff%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/add/page": "action-browser",
+        "app/auth/signup/page": "action-browser"
+      }
+    },
+    "7d032f105a10639db9fd4266ff7e83d9f50b8ab5": {
+      "workers": {
+        "app/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdhanielbolosan%2FDocuments%2FGitHub%2FTextswap%2Fsrc%2Flib%2FdbActions.ts%22%2C%5B%22deleteStuff%22%2C%22addStuff%22%2C%22createUser%22%2C%22changePassword%22%2C%22editStuff%22%5D%5D%5D&__client_imported__=true!",
+        "app/auth/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdhanielbolosan%2FDocuments%2FGitHub%2FTextswap%2Fsrc%2Flib%2FdbActions.ts%22%2C%5B%22deleteStuff%22%2C%22addStuff%22%2C%22createUser%22%2C%22changePassword%22%2C%22editStuff%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/add/page": "action-browser",
+        "app/auth/signup/page": "action-browser"
+      }
+    },
+    "7e69d67b8a1be4617d3624272f97a20146f31807": {
+      "workers": {
+        "app/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdhanielbolosan%2FDocuments%2FGitHub%2FTextswap%2Fsrc%2Flib%2FdbActions.ts%22%2C%5B%22deleteStuff%22%2C%22addStuff%22%2C%22createUser%22%2C%22changePassword%22%2C%22editStuff%22%5D%5D%5D&__client_imported__=true!",
+        "app/auth/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdhanielbolosan%2FDocuments%2FGitHub%2FTextswap%2Fsrc%2Flib%2FdbActions.ts%22%2C%5B%22deleteStuff%22%2C%22addStuff%22%2C%22createUser%22%2C%22changePassword%22%2C%22editStuff%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/add/page": "action-browser",
+        "app/auth/signup/page": "action-browser"
+      }
+    },
+    "f96be446aaa7f19302303ad517a7bc015afebff1": {
+      "workers": {
+        "app/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdhanielbolosan%2FDocuments%2FGitHub%2FTextswap%2Fsrc%2Flib%2FdbActions.ts%22%2C%5B%22deleteStuff%22%2C%22addStuff%22%2C%22createUser%22%2C%22changePassword%22%2C%22editStuff%22%5D%5D%5D&__client_imported__=true!",
+        "app/auth/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fdhanielbolosan%2FDocuments%2FGitHub%2FTextswap%2Fsrc%2Flib%2FdbActions.ts%22%2C%5B%22deleteStuff%22%2C%22addStuff%22%2C%22createUser%22%2C%22changePassword%22%2C%22editStuff%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/add/page": "action-browser",
+        "app/auth/signup/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "M5W+CIa6VgVHVRjHMvRVkuDdVL9yfECTnDzDxmBWP9I="
+}
