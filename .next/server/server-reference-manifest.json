@@ -1,5 +1,46 @@
 {
-  "node": {},
+  "node": {
+    "00b8e1e0bd5410cb1c583cc3a8976d7450201587": {
+      "workers": {
+        "app/auth/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fellieishii%2FDocuments%2FGitHub%2FTextswap%2Fsrc%2Flib%2FdbActions.ts%22%2C%5B%22changePassword%22%2C%22addStuff%22%2C%22deleteStuff%22%2C%22editStuff%22%2C%22createUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/auth/signup/page": "action-browser"
+      }
+    },
+    "2b4cb394e5756c55e9a5d7ec061ce79288149fa4": {
+      "workers": {
+        "app/auth/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fellieishii%2FDocuments%2FGitHub%2FTextswap%2Fsrc%2Flib%2FdbActions.ts%22%2C%5B%22changePassword%22%2C%22addStuff%22%2C%22deleteStuff%22%2C%22editStuff%22%2C%22createUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/auth/signup/page": "action-browser"
+      }
+    },
+    "543d2873f370b2e5c1671508dd92d741b61637b5": {
+      "workers": {
+        "app/auth/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fellieishii%2FDocuments%2FGitHub%2FTextswap%2Fsrc%2Flib%2FdbActions.ts%22%2C%5B%22changePassword%22%2C%22addStuff%22%2C%22deleteStuff%22%2C%22editStuff%22%2C%22createUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/auth/signup/page": "action-browser"
+      }
+    },
+    "d6346f51e36021b0b86b0e142ab3298f40cd9ce8": {
+      "workers": {
+        "app/auth/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fellieishii%2FDocuments%2FGitHub%2FTextswap%2Fsrc%2Flib%2FdbActions.ts%22%2C%5B%22changePassword%22%2C%22addStuff%22%2C%22deleteStuff%22%2C%22editStuff%22%2C%22createUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/auth/signup/page": "action-browser"
+      }
+    },
+    "f092342f25b70053444ff16898b1af6c8accf4c3": {
+      "workers": {
+        "app/auth/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fellieishii%2FDocuments%2FGitHub%2FTextswap%2Fsrc%2Flib%2FdbActions.ts%22%2C%5B%22changePassword%22%2C%22addStuff%22%2C%22deleteStuff%22%2C%22editStuff%22%2C%22createUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/auth/signup/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "i/orlfZWiugQ0bykmlaN9SPTEYAis7rchfvUkStC9jg="
+  "encryptionKey": "ashh0nc7LHYhhcMtmEVR3iXN8fK4QmaQhV8/J1Yj7Uc="
 }

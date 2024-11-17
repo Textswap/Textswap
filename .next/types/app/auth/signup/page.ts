@@ -1,8 +1,8 @@
-// File: /Users/dhanielbolosan/Documents/GitHub/Textswap/src/app/buy/page.tsx
-import * as entry from '../../../../src/app/buy/page.js'
+// File: /Users/ellieishii/Documents/GitHub/Textswap/src/app/auth/signup/page.tsx
+import * as entry from '../../../../../src/app/auth/signup/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
-type TEntry = typeof import('../../../../src/app/buy/page.js')
+type TEntry = typeof import('../../../../../src/app/auth/signup/page.js')
 
 // Check that the entry is a valid entry
 checkFields<Diff<{
