@@ -112,6 +112,11 @@ body .navbar {
   --bs-navbar-hover-color: var(--secondary-color);
   height: 75px;
 }
+
+.navbar .navbar-collapse {
+  background-color: var(--main-color);
+  padding: 1rem;
+}
 /* navbar */
 
 /* landing page */
