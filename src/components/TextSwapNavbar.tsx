@@ -25,7 +25,7 @@ const NavBar: React.FC = () => {
         <Navbar.Brand className="me-auto" href="/">
           TextSwap
         </Navbar.Brand>
-        <Nav className="search-bar">
+        <Nav className="nav-search-bar">
           <SearchBar />
         </Nav>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />

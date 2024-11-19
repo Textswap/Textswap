@@ -5,30 +5,20 @@
 // https://github.com/TZawalich/React_Search_Components
 
 import React, { ChangeEventHandler, FormEvent } from "react";
-import Form from "react-bootstrap/Form";
 import { Search } from "react-bootstrap-icons";
 
-interface searchTerm {
-  value: string;
-  searchHandler: ChangeEventHandler;
-  placeholder: string;
-  submitHandler: (e: FormEvent) => void;
-}
-
-const SearchBar = (props: searchTerm) => {
+const SearchBar = () => {
   return (
-    <Form className="search-bar" onSubmit={props.submitHandler}>
-      <Form.Control
-        type="text"
-        placeholder={props.placeholder}
-        value={props.value}
-        onChange={props.searchHandler}
-        className="search-input rounded-pill"
-      />
+    <div className="search-wrapper">
       <button type="submit" className="search-button">
         <Search />
       </button>
-    </Form>
+      <input
+        type="search"
+        placeholder="Search..."
+        className="search-input"
+      ></input>
+    </div>
   );
 };
 
