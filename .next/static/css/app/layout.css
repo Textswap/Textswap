@@ -97,10 +97,6 @@ body {
   display: flex;
   flex-direction: column;
 }
-
-.bg-dark a.dorpdown-item {
-  color: var(--main-color);
-}
 /* site body */
 
 /* navbar */
@@ -110,12 +106,10 @@ body .navbar {
   --bs-navbar-brand-hover-color: var(--secondary-color);
   --bs-navbar-color: white;
   --bs-navbar-hover-color: var(--secondary-color);
-  height: 75px;
 }
 
 .navbar .navbar-collapse {
   background-color: var(--main-color);
-  padding: 1rem;
 }
 /* navbar */
 
@@ -194,6 +188,18 @@ body .navbar {
   transition: 0.5s;
 }
 /* search bar */
+
+/* visualize borders
+.navbar .navbar-brand,
+.navbar .navbar-nav .nav-link,
+.navbar .search-wrapper,
+.navbar .search-input,
+.landing-content,
+.landing-content h1,
+.landing-content h2 {
+  border: solid black;
+}
+*/
 
 /*!***********************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[12].use[3]!./node_modules/bootstrap/dist/css/bootstrap.min.css ***!
