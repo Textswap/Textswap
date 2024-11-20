@@ -27,11 +27,22 @@ const NavBar: React.FC = () => {
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
+          <Nav>
+            {currentUser && role === "ADMIN" ? (
+              <Nav.Link
+                id="admin-stuff-nav"
+                href="/admin"
+                key="admin"
+                active={pathName === "/admin"}
+              >
+                Admin
+              </Nav.Link>
+            ) : (
+              ""
+            )}
+          </Nav>
           <Nav className="nav-search-bar d-none d-lg-flex">
             <SearchBar />
-          </Nav>
-          <Nav className="d-lg-none w-100">
-            <Nav.Link className="w-100">Search</Nav.Link>
           </Nav>
           <Nav className="ms-auto">
             {currentUser ? (
@@ -72,18 +83,6 @@ const NavBar: React.FC = () => {
             ) : (
               ""
             )}
-            {currentUser && role === "ADMIN" ? (
-              <Nav.Link
-                id="admin-stuff-nav"
-                href="/admin"
-                key="admin"
-                active={pathName === "/admin"}
-              >
-                Admin
-              </Nav.Link>
-            ) : (
-              ""
-            )}
           </Nav>
           <Nav>
             {session ? (
@@ -121,6 +120,13 @@ const NavBar: React.FC = () => {
                 </NavDropdown.Item>
               </NavDropdown>
             )}
+          </Nav>
+          <Nav className="d-lg-none w-100">
+            <NavDropdown id="search-dropdown" title="Search">
+              <div className="collapse-search-bar">
+                <SearchBar />
+              </div>
+            </NavDropdown>
           </Nav>
         </Navbar.Collapse>
       </Container>
