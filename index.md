@@ -42,5 +42,3 @@ The tab for sorting through listings would also be where you purchase the textbo
 ## Team
 
 Textswap is maintained by Ellie Ishii, Xingyao He, Dhaniel Bolosan, and Logan Teachout.
-
-<img src="Images/Adminpage.png">
