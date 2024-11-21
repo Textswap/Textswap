@@ -8,6 +8,7 @@
 * [Navbar](#navbar)
 * [Buying and Selling](#buying-and-selling)
 * [Team](#team)
+* [Milestones](#milestones)
 
 ## Overview
 
