@@ -1,6 +1,6 @@
 # Textswap
 
-<img src="Images/TextswapLanding.png" width="100px">
+<img src="Images/TextswapLanding.png" width="500px">
 
 ## Table of Contents
 
