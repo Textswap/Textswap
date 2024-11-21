@@ -1,6 +1,6 @@
 # Textswap
 
-<img src="Images/TextswapLanding.png" width="500px">
+<img src="Images/TextswapLanding.png" width="750px">
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ The sign in or sign up section would just be used to track users, and to ensure 
 
 ### Tabs
 
-<img src="Images/TextswapTabs.png">
+<img src="Images/TextswapTabs.png" width="750px">
 
 The other tabs would be for buying textbooks or selling textbooks. The selling tab would let you make a listing that would be uploaded to the listings, and the buying tab would show you all of the listings. Both of these tabs are given more in depth descriptions in the following *"Buying and Selling"* section.
 
@@ -33,11 +33,11 @@ The whole goal of the site is to buy and sell used textbooks to help other stude
 
 ### Making a listing
 
-<img src="Images/listing.png">
+<img src="Images/listing.png" width="750px">
 
 The tab set up to make listings would allow you to specify the subject, title, price, and any other options that might be important descriptors for a textbook, like the condition. Then, it would allow you to set a description where you would add any other notes. This would be things such as the price, or if you're looking for an exchange, or even details like notes scribbled in the margins of the textbook.
 
-<img src="Images/adminpage.png">
+<img src="Images/adminpage.png" width="750px">
 
 ### Commenting on a listing
 
