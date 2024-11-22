@@ -23,7 +23,7 @@ The navbar would be a header at the top that would contain the tabs for seeing o
 <img src="Images/LogInPage.png" width="750px">
 <img src="Images/SignUpPage.png" width="750px">
 
-The sign in or sign up section would just be used to track users, and to ensure there aren't any issues you would have to sign up if you wanted to sell any textbooks on the site. 
+The log in or sign up section would just be used to track users, and to ensure there aren't any issues you would have to sign up if you wanted to sell any textbooks on the site. 
 
 ### Tabs
 
