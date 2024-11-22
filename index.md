@@ -12,7 +12,7 @@
 
 ## Overview
 
-Our goal for our site is to provide a place to buy and sell used textbooks, and allow users to upload their own listings or to view other listings. We also intend to let people comment on listings. The process would essentially work as a set of listings that you could comment on, and once an agreement is made you could move onto purchasing it from the person through the desired means. You can find our website [here! ](https://textswap-gb9qex7up-logan-teachouts-projects.vercel.app) [and here.](https://manoa-textswap.vercel.app/)
+Our goal for our site is to provide a place to buy and sell used textbooks, and allow users to upload their own listings or to view other listings. We also intend to let people comment on listings. The process would essentially work as a set of listings that you could comment on, and once an agreement is made you could move onto purchasing it from the person through the desired means. You can find our website [here!](https://manoa-textswap.vercel.app/)
 
 ## Navbar
 
@@ -54,7 +54,7 @@ Our first goal is to get the basic skeleton of our project done. This is mainly 
 
 ### Milestone 2
 
-Our goals with milestone 2 are to finish up the design of the website and finalize any creative decisions. In addition, we plan to finish up the skeleton of our website and start adding functionality to the mockups. Of course, full functionality of the site is still not likely in this milestone, several pages will presumably remain mockups for now. Project page [here.](https://github.com/orgs/Textswap/projects/4)
+Our goals with milestone 2 are to finish up the design of the website and finalize any creative decisions. In addition, we plan to finish up the skeleton of our website and start adding functionality to the mockups. Of course, full functionality of the site is still not likely in this milestone, several pages will presumably remain mockups for now. Project page [here.](https://github.com/orgs/Textswap/projects/7/views/1)
 
 ## Team
 
