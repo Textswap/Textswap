@@ -12,7 +12,7 @@
 
 ## Overview
 
-Our goal for our site is to provide a place to buy and sell used textbooks, and allow users to upload their own listings or to view other listings. We also intend to let people comment on listings. The process would essentially work as a set of listings that you could comment on, and once an agreement is made you could move onto purchasing it from the person through the desired means. You can find our website [here!](https://textswap-gb9qex7up-logan-teachouts-projects.vercel.app)
+Our goal for our site is to provide a place to buy and sell used textbooks, and allow users to upload their own listings or to view other listings. We also intend to let people comment on listings. The process would essentially work as a set of listings that you could comment on, and once an agreement is made you could move onto purchasing it from the person through the desired means. You can find our website [here! ](https://textswap-gb9qex7up-logan-teachouts-projects.vercel.app) [and here.](https://manoa-textswap.vercel.app/)
 
 ## Navbar
 
