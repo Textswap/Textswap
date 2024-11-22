@@ -18,7 +18,10 @@ Our goal for our site is to provide a place to buy and sell used textbooks, and 
 
 The navbar would be a header at the top that would contain the tabs for seeing or creating listings, and of course the part where you sign in. It would be there to make the user interface more user friendly and would help to organize all of the different sections. 
 
-### Sign in/Sign up
+### Log in/Sign up
+
+<img src="Images/LogInPage.png" width="750px">
+<img src="Images/SignUpPage.png" width="750px">
 
 The sign in or sign up section would just be used to track users, and to ensure there aren't any issues you would have to sign up if you wanted to sell any textbooks on the site. 
 
@@ -38,9 +41,15 @@ The whole goal of the site is to buy and sell used textbooks to help other stude
 
 The tab set up to make listings would allow you to specify the subject, title, price, and any other options that might be important descriptors for a textbook, like the condition. Then, it would allow you to set a description where you would add any other notes. This would be things such as the price, or if you're looking for an exchange, or even details like notes scribbled in the margins of the textbook.
 
-<img src="Images/adminpage.png" width="750px">
+### On the Admin Side
+
+Our team monitors the textbooks.
+
+<img src="Images/AdminPage.png" width="750px">
 
 ### Commenting on a listing
+
+<img src="Images/TextSwap_BuyPage.png" width="750px">
 
 The tab for sorting through listings would also be where you purchase the textbooks. You could filter the different listings by the specifications listed above such as condition, price, subject, and title. Then, via the ability to comment on posts you could contact the seller and attempt to make a deal with them. This would allow for haggling, or for getting more specific details from the owner of the textbook. Then, once something is settled you could work out the method of payment and how you would recieve the textbook.
 
