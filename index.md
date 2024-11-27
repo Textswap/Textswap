@@ -46,11 +46,11 @@ The tab for sorting through listings would also be where you purchase the textbo
 
 ## Milestones
 
-We will post our goals and progress as milestones here. As we complete more milestones we will add more onto this section. In addition, you can find our repository [here.](https://github.com/Textswap/textswap)
+We will post our goals and progress as milestones here. As we complete more milestones we will add more onto this section. In addition, you can find our repository [here.](https://github.com/Textswap/text_swap)
 
 ### Milestone 1
 
-Our first goal is to get the basic skeleton of our project done. This is mainly just getting the landing page settled and if we have time adding other pages to the navbar. In addition, we need to deploy our code to Vercel. We would also like to work on branding aspects like getting a color scheme set and determining a logo. Project page [here.](https://github.com/orgs/Textswap/projects/3)
+Our first goal is to get the basic skeleton of our project done. This is mainly just getting the landing page settled and if we have time adding other pages to the navbar. In addition, we need to deploy our code to Vercel. We would also like to work on branding aspects like getting a color scheme set and determining a logo.
 
 ### Milestone 2
 
