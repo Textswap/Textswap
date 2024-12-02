@@ -12,7 +12,7 @@
 
 ## Overview
 
-Our goal for our site is to provide a place to buy and sell used textbooks, and allow users to upload their own listings or to view other listings. We also intend to let people comment on listings. The process would essentially work as a set of listings that you could comment on, and once an agreement is made you could move onto purchasing it from the person through the desired means. You can find our website [here!](https://manoa-textswap.vercel.app/)
+Our goal for our site is to provide a place to buy and sell used textbooks, and allow users to upload their own listings or to view other listings. The website will also allow you to filter your searches and save textbooks to a cart. You can find our website [here!](https://manoa-textswap.vercel.app/)
 
 ## Navbar
 
@@ -36,13 +36,9 @@ The whole goal of the site is to buy and sell used textbooks to help other stude
 
 <img src="Images/listing.png" width="750px">
 
-The tab set up to make listings would allow you to specify the subject, title, price, and any other options that might be important descriptors for a textbook, like the condition. Then, it would allow you to set a description where you would add any other notes. This would be things such as the price, or if you're looking for an exchange, or even details like notes scribbled in the margins of the textbook.
+The tab set up to make listings would allow you to specify the subject, title, price, and any other options that might be important descriptors for a textbook, like the condition or other important factors. 
 
 <img src="Images/adminpage.png" width="750px">
-
-### Commenting on a listing
-
-The tab for sorting through listings would also be where you purchase the textbooks. You could filter the different listings by the specifications listed above such as condition, price, subject, and title. Then, via the ability to comment on posts you could contact the seller and attempt to make a deal with them. This would allow for haggling, or for getting more specific details from the owner of the textbook. Then, once something is settled you could work out the method of payment and how you would recieve the textbook.
 
 ## Milestones
 
