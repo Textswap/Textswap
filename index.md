@@ -52,6 +52,10 @@ Our first goal is to get the basic skeleton of our project done. This is mainly 
 
 Our goals with milestone 2 are to finish up the design of the website and finalize any creative decisions. In addition, we plan to finish up the skeleton of our website and start adding functionality to the mockups. Of course, full functionality of the site is still not likely in this milestone, several pages will presumably remain mockups for now. Project page [here.](https://github.com/orgs/Textswap/projects/7/views/1)
 
+### Milestone 3
+
+Milestone 3 is of course the finish line. Our only real goals for this milestone is cleaning up any issues we have with our pages, adding in all of our data, find testers, and implement the acceptance testing. These being the finishing touches, and hopefully allowing us to have our website in full working order by the end. Project page [here.](https://github.com/orgs/Textswap/projects/8/views/1)
+
 ## Team
 
 Textswap is maintained by Ellie Ishii, Xingyao He, Dhaniel Bolosan, and Logan Teachout.
