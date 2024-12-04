@@ -12,7 +12,9 @@
 
 ## Overview
 
-Our goal for our site is to provide a place to buy and sell used textbooks, and allow users to upload their own listings or to view other listings. The website will also allow you to filter your searches and save textbooks to a cart. You can find our website [here!](https://manoa-textswap.vercel.app/)
+Our goal for our site is to provide a place to buy and sell used textbooks, and allow users to upload their own listings or to view other listings. The website will also allow you to filter your searches and save textbooks to a cart.
+
+### [Deployment](https://manoa-textswap.vercel.app/)
 
 ## Navbar
 
@@ -46,11 +48,11 @@ We will post our goals and progress as milestones here. As we complete more mile
 
 ### Milestone 1
 
-Our first goal is to get the basic skeleton of our project done. This is mainly just getting the landing page settled and if we have time adding other pages to the navbar. In addition, we need to deploy our code to Vercel. We would also like to work on branding aspects like getting a color scheme set and determining a logo.
+Our first goal is to get the basic skeleton of our project done. This is mainly just getting the landing page settled and if we have time adding other pages to the navbar. In addition, we need to deploy our code to Vercel. We would also like to work on branding aspects like getting a color scheme set and determining a logo. Project page [here.](https://github.com/orgs/Textswap/projects/3)
 
 ### Milestone 2
 
-Our goals with milestone 2 are to finish up the design of the website and finalize any creative decisions. In addition, we plan to finish up the skeleton of our website and start adding functionality to the mockups. Of course, full functionality of the site is still not likely in this milestone, several pages will presumably remain mockups for now.
+Our goals with milestone 2 are to finish up the design of the website and finalize any creative decisions. In addition, we plan to finish up the skeleton of our website and start adding functionality to the mockups. Of course, full functionality of the site is still not likely in this milestone, several pages will presumably remain mockups for now. Project page [here.](https://github.com/orgs/Textswap/projects/6)
 
 ### Milestone 3
 
