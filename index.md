@@ -50,7 +50,7 @@ Our first goal is to get the basic skeleton of our project done. This is mainly 
 
 ### Milestone 2
 
-Our goals with milestone 2 are to finish up the design of the website and finalize any creative decisions. In addition, we plan to finish up the skeleton of our website and start adding functionality to the mockups. Of course, full functionality of the site is still not likely in this milestone, several pages will presumably remain mockups for now. Project page [here.](https://github.com/orgs/Textswap/projects/7/views/1)
+Our goals with milestone 2 are to finish up the design of the website and finalize any creative decisions. In addition, we plan to finish up the skeleton of our website and start adding functionality to the mockups. Of course, full functionality of the site is still not likely in this milestone, several pages will presumably remain mockups for now.
 
 ### Milestone 3
 
