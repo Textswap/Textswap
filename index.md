@@ -1,6 +1,6 @@
 # Textswap
 
-<img src="Images/TextswapLanding.png" width="750px">
+<img src="Images/New Landing Page.png" width="750px">
 
 ## Table of Contents
 
@@ -20,9 +20,13 @@ Our goal for our site is to provide a place to buy and sell used textbooks, and 
 
 The navbar would be a header at the top that would contain the tabs for seeing or creating listings, and of course the part where you sign in. It would be there to make the user interface more user friendly and would help to organize all of the different sections. 
 
-### Sign in/Sign up
+### Log in/Sign up
 
-The sign in or sign up section would just be used to track users, and to ensure there aren't any issues you would have to sign up if you wanted to sell any textbooks on the site. 
+The log in or sign up section would just be used to track users, and to ensure there aren't any issues you would have to sign up if you wanted to sell any textbooks on the site. 
+
+<img src="Images/New Log in.png" width="750px">
+
+<img src="Images/New Sign up.png" width="750px">
 
 ### Tabs
 
@@ -34,13 +38,21 @@ The other tabs would be for buying textbooks or selling textbooks. The selling t
 
 The whole goal of the site is to buy and sell used textbooks to help other students. To make it more streamlined we would have two different tabs. One for making a listing, and one for commenting on listings. This is because it could be hard to figure out how to work the system if we didn't dedicate a section to the making of listings.
 
+<img src="Images/Updated Buy page.png" width="750px">
+
+<img src="Images/View Details.png" width="750px">
+
 ### Making a listing
 
-<img src="Images/listing.png" width="750px">
+<img src="Images/Sell:List Page.png" width="750px">
 
 The tab set up to make listings would allow you to specify the subject, title, price, and any other options that might be important descriptors for a textbook, like the condition or other important factors. 
 
-<img src="Images/adminpage.png" width="750px">
+### On the Admin Side
+
+Our team monitors the textbooks.
+
+<img src="Images/Admin Side.png" width="750px">
 
 ## Milestones
 
