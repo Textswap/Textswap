@@ -36,13 +36,13 @@ The other tabs would be for buying textbooks or selling textbooks. The selling t
 
 The whole goal of the site is to buy and sell used textbooks to help other students. To make it more streamlined we would have two different tabs. One for making a listing, and one for commenting on listings. This is because it could be hard to figure out how to work the system if we didn't dedicate a section to the making of listings.
 
-<img src="Images/TextSwapBuy" width="750px">
+<img src="Images/TextSwapBuy.png" width="750px">
 
-<img src="Images/TextSwapInfo" width="750px">
+<img src="Images/TextSwapInfo.png" width="750px">
 
 ### Making a listing
 
-<img src="Images/TextSwapList" width="750px">
+<img src="Images/TextSwapList.png" width="750px">
 
 The tab set up to make listings would allow you to specify the subject, title, price, and any other options that might be important descriptors for a textbook, like the condition or other important factors. 
 
@@ -50,7 +50,7 @@ The tab set up to make listings would allow you to specify the subject, title, p
 
 Our team monitors the textbooks.
 
-<img src="Images/TextSwapAdmin" width="750px">
+<img src="Images/TextSwapAdmin.png" width="750px">
 
 ## Milestones
 
