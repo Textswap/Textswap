@@ -1,6 +1,6 @@
 # Textswap
 
-<img src="Images/newland.png" width="750px">
+<img src="Images/newLand.png" width="750px">
 
 ## Table of Contents
 
