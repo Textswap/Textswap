@@ -1,6 +1,6 @@
 # Textswap
 
-<img src="Images/New Landing Page.png" width="750px">
+<img src="Images/newland.png" width="750px">
 
 ## Table of Contents
 
@@ -28,6 +28,8 @@ The log in or sign up section would just be used to track users, and to ensure t
 
 <img src="Images/New Sign up.png" width="750px">
 
+<img src="Images/newAcc.png" width="750px">
+
 ### Tabs
 
 The other tabs would be for buying textbooks or selling textbooks. The selling tab would let you make a listing that would be uploaded to the listings, and the buying tab would show you all of the listings. Both of these tabs are given more in depth descriptions in the following *"Buying and Selling"* section.
@@ -40,6 +42,10 @@ The whole goal of the site is to buy and sell used textbooks to help other stude
 
 <img src="Images/TextSwapInfo.png" width="750px">
 
+<img src="Images/newCart.png" width="750px">
+
+<img src="Images/newPay.png" width="750px">
+
 ### Making a listing
 
 <img src="Images/TextSwapList.png" width="750px">
@@ -50,7 +56,7 @@ The tab set up to make listings would allow you to specify the subject, title, p
 
 Our team monitors the textbooks.
 
-<img src="Images/TextSwapAdmin.png" width="750px">
+<img src="Images/newAdmin.png" width="750px">
 
 ## Milestones
 
